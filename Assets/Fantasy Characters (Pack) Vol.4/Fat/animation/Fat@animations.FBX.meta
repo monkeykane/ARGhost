@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 9e4be899a6ad28e4ebb35503ab058565
+timeCreated: 1453043251
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Character001
+    100002: Character001Hub001
+    100004: Character001Hub002
+    100006: Character001Hub002Bone001
+    100008: Character001Hub002Bone001Bone001
+    100010: Character001Hub002Bone001Bone002
+    100012: Character001LArm1
+    100014: Character001LArm2
+    100016: Character001LArmCollarbone
+    100018: Character001LArmPalm
+    100020: Character001LLeg1
+    100022: Character001LLeg2
+    100024: Character001LLegPlatform
+    100026: Character001RArm1
+    100028: Character001RArm2
+    100030: Character001RArmCollarbone
+    100032: Character001RArmPalm
+    100034: Character001RLeg1
+    100036: Character001RLeg2
+    100038: Character001RLegPlatform
+    100040: Character001Spine
+    100042: //RootNode
+    100044: Fat_Body
+    100046: Fat_Eyes
+    100048: Particle View 001
+    400000: Character001
+    400002: Character001Hub001
+    400004: Character001Hub002
+    400006: Character001Hub002Bone001
+    400008: Character001Hub002Bone001Bone001
+    400010: Character001Hub002Bone001Bone002
+    400012: Character001LArm1
+    400014: Character001LArm2
+    400016: Character001LArmCollarbone
+    400018: Character001LArmPalm
+    400020: Character001LLeg1
+    400022: Character001LLeg2
+    400024: Character001LLegPlatform
+    400026: Character001RArm1
+    400028: Character001RArm2
+    400030: Character001RArmCollarbone
+    400032: Character001RArmPalm
+    400034: Character001RLeg1
+    400036: Character001RLeg2
+    400038: Character001RLegPlatform
+    400040: Character001Spine
+    400042: //RootNode
+    400044: Fat_Body
+    400046: Fat_Eyes
+    400048: Particle View 001
+    2300000: Fat_Eyes
+    3300000: Fat_Eyes
+    4300000: Fat_Eyes
+    4300002: Fat_Body
+    7400000: animations
+    7400002: Idle
+    7400004: Jump
+    7400006: Attack_1
+    7400008: Attack_2
+    7400010: Attack_3
+    7400012: Get_Hit
+    7400014: Attack_4
+    7400016: Dead
+    7400018: Walk
+    7400020: Run
+    9500000: //RootNode
+    13700000: Fat_Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: animations
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 341
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack_1
+      takeName: Take 001
+      firstFrame: 106
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack_2
+      takeName: Take 001
+      firstFrame: 141
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.3248945
+        functionName: OnGhostAttack
+        data: 
+        objectReferenceParameter: {fileID: 104762, guid: 731800f0e9307b242a8264d0c7a16d46,
+          type: 2}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack_3
+      takeName: Take 001
+      firstFrame: 191
+      lastFrame: 225
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Get_Hit
+      takeName: Take 001
+      firstFrame: 226
+      lastFrame: 245
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack_4
+      takeName: Take 001
+      firstFrame: 236
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Dead
+      takeName: Take 001
+      firstFrame: 246
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 291
+      lastFrame: 321
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 322
+      lastFrame: 341
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001Hub001
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1
+        weight: 1
+      - path: Character001Hub001/Character001LLeg1/Character001LLeg2
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1
+        weight: 1
+      - path: Character001Hub001/Character001RLeg1/Character001RLeg2
+        weight: 1
+      - path: Character001Hub001/Character001Spine
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone001
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Character001Hub002Bone001Bone002
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001Hub002Bone001/Fat_Eyes
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001LArmCollarbone/Character001LArm1/Character001LArm2/Character001LArmPalm
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2
+        weight: 1
+      - path: Character001Hub001/Character001Spine/Character001Hub002/Character001RArmCollarbone/Character001RArm1/Character001RArm2/Character001RArmPalm
+        weight: 1
+      - path: Character001LLegPlatform
+        weight: 1
+      - path: Character001RLegPlatform
+        weight: 1
+      - path: Fat_Body
+        weight: 1
+      - path: Particle View 001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

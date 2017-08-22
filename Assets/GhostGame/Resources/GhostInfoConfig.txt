@@ -1,0 +1,6 @@
+MaskTips=Detecting...
+AirTips=Ghost detected, find IT and vacuum!
+WaitTips=Detecting...
+LoseTips=Mission Failed!
+MissTips=Time Out!
+WinTips=Mission Accomplished!

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DragonEditorSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Config_AutoSave>
+    <m_enableAutoSave>false</m_enableAutoSave>
+    <m_interval>1</m_interval>
+    <m_logToConsole>true</m_logToConsole>
+  </Config_AutoSave>
+  <Config_VersionCheck>
+    <m_enableUnityVersionCheck>false</m_enableUnityVersionCheck>
+    <m_unityVersion>4.6.6p2</m_unityVersion>
+  </Config_VersionCheck>
+  <Config_AssetProcess>
+    <m_enableModelProcess>true</m_enableModelProcess>
+    <m_enableTextureProcess>true</m_enableTextureProcess>
+    <m_enableAudioProcess>true</m_enableAudioProcess>
+    <m_enablePrefabProcess>false</m_enablePrefabProcess>
+    <m_enableExcelProcess>true</m_enableExcelProcess>
+    <m_enableBuildEncryption>true</m_enableBuildEncryption>
+    <m_enableBuildOptimization>true</m_enableBuildOptimization>
+  </Config_AssetProcess>
+  <Config_AudioSystem>
+    <m_audioAssetInputPath>Assets/AudioResources/</m_audioAssetInputPath>
+    <m_audioPrefabOutputPath>Assets/Audio/Source/</m_audioPrefabOutputPath>
+    <m_audioTemplatesPath>Assets/Audio/Templates/</m_audioTemplatesPath>
+    <m_audioSwitchInputPath>Assets/Audio/SwitchCases/</m_audioSwitchInputPath>
+  </Config_AudioSystem>
+</DragonEditorSettings>

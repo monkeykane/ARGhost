@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2105405101, guid: bda39175bf4f1324ba6957269dea306c, type: 3}
+  m_Name: TestcaseSettings
+  m_EditorClassIdentifier: 
+  Config_CheckScenes:
+    m_ignoreFolders:
+    - .\Assets\Middleware
+  Config_CheckTextures:
+    m_ignoreFolders:
+    - .\Assets\Middleware
+    m_ignoreSizeFolders:
+    - .\Assets\Middleware
+    m_textureExtensions:
+    - .png
+    - .dds
+    - .jpg
+    m_maxWidth: 1024
+    m_maxHeight: 1024
+  Config_CheckModels:
+    m_ignoreFolders:
+    - .\Assets\Middleware
+    m_environmentModelSpec:
+      m_maxTris: 1000
+      m_maxMaterials: 2
+      m_maxMeshes: 6
+    m_itemModelSpec:
+      m_maxTris: 1000
+      m_maxMaterials: 2
+      m_maxMeshes: 6
+    m_weaponModelSpec:
+      m_maxTris: 1000
+      m_maxMaterials: 2
+      m_maxMeshes: 6
+    m_characterModelSpec:
+      m_maxTris: 3000
+      m_maxMaterials: 2
+      m_maxMeshes: 6
+      m_maxBonesEachVertex: 2
+      m_maxBones: 30
+    m_npcModelSpec:
+      m_maxTris: 3000
+      m_maxMaterials: 2
+      m_maxMeshes: 6
+      m_maxBonesEachVertex: 2
+      m_maxBones: 30
+    m_animalModelSpec:
+      m_maxTris: 3000
+      m_maxMaterials: 2
+      m_maxMeshes: 6
+      m_maxBonesEachVertex: 2
+      m_maxBones: 30
+  Config_CheckAudios:
+    m_ignoreFolders:
+    - .\Assets\Middleware
+    m_audioExtensions:
+    - .wav
+    - .prefab
+    m_maxLengthBGM: 55
+    m_maxLengthSFXOrUI: 2.1
+  Config_CheckPrefabs:
+    m_ignoreFolders:
+    - .\Assets\Middleware
+  Config_CheckScripts:
+    m_checkFolder: 
+    m_ignoreConditions:
+      m_ignoreFolders:
+      - .\Assets\Middleware
+      m_ignoreEditorScripts: 1
+      m_ignoreDebugLines: 1
+      m_ignoreLinesAlreadyReviewed: 1
+  Config_CheckNamingConvention:
+    m_ignoreFolders:
+    - Assets\Middleware
+    m_textureNameConventions:
+      m_textureExtensions:
+      - .png
+      - .tga
+      - .psd
+      - .jpg
+      m_texturePrefix:
+      - FX_
+      - UI_Atlas_
+      - Icon_
+      - Font_
+      - Env_
+      - Chr_
+      - Item_
+      - Animal_
+      m_textureSuffix:
+      - _TexD
+      - _TexD_Wrap
+      - _TexN
+      - _TexS
+      - _TexA8
+      - _TexD_NC
+    m_modelNameConventions:
+      m_nonSkinModelPrefix:
+      - Env_
+      - Item_
+      - Animal_
+      - FX_
+      m_skinModelPrefix:
+      - Chr_
+      - Npc_
+      m_skeletonSuffix: _Skeleton
+    m_materialNameConventions:
+      m_materialSuffix:
+      - _Mat
+      - _SharedMat
+    m_animationNameConventions:
+      m_skeletonAnimationPrefix:
+      - Anim_
+      m_nonSkeletonAnimationPrefx:
+      - Cutscene_
+      - Anim_
+    m_animationControllerNameConventions:
+      m_animationControllerPrefix:
+      - AnimController_
+    m_fontNameConventions:
+      m_fontPrefix:
+      - Font_
+    m_audioNameConventions:
+      m_audioExtensions:
+      - .wav
+      m_audioPrefix:
+      - BGM_
+      - SFX_
+      - UI_
+      m_audioSuffix:
+      - _2D
+      - _2DLoop
+    m_scriptNameConventions:
+      m_scriptExtensions:
+      - .cs
+      - .js
+    m_configNameConventions:
+      m_configExtensions:
+      - .txt
+      - .xml
+      - .asset
+  Config_CheckAvatarAssets:
+    m_checkFolders:
+    - Assets\Scenes\ModelBuilder\Resources
+    m_animationFolder: Assets\ArtExport\Resources\Characters\Animation
+    m_boneNamePrefix:
+    - Bip01

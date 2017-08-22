@@ -1,0 +1,32 @@
+INT	STRING	STRING	STRING	INT	INT	FLOAT
+ID	GhostName	Prefab	Rating	SpawnRate	Power	AttackTime
+100	Forest Crank	Air_Eared_Crank_100	D	2	2500	12
+101	Lava Crab	Air_Crab_101	D	1	3200	12
+102	Unknown	Air_Ghost_102	D	4	3200	10
+103	Rotten	Air_Fat_103	C	5	3600	9.6
+104	Frost	Air_Demon_104	C	3	3000	8.6
+105	Marine	Air_Octopus_105	C	5	3300	8.4
+106	Scout	Air_Hippo_106	C	4	3600	8.4
+107	Earth Golem	Air_Golem_107	C	3	3200	7.6
+108	Crymic	Air_Alien_108	B	5	3500	6
+109	Guardian	Air_Ant_109	B	3	3500	5.7
+200	Water Crank	Air_Eared_Crank_200	D	3	3000	9.6
+201	Muddy Crab	Air_Crab_201	C	5	3800	9
+202	Earthbound	Air_Ghost_202	C	5	3800	8.6
+203	Rip-off	Air_Fat_203	B	5	4300	7.2
+204	Netherfire	Air_Demon_204	B	2	3600	6.4
+205	violet	Air_Octopus_205	B	3	3900	6
+206	Fighter	Air_Hippo_206	B	6	4300	5.7
+207	Fire Golem	Air_Golem_207	B	3	4000	5
+208	Ray 	Air_Alien_208	B	4	4200	4.8
+209	Solider	Air_Ant_209	A	3	4200	4.3
+300	Night Crank	Air_Eared_Crank_300	C	2	3600	6.8
+301	Stone Crab	Air_Crab_301	B	5	4500	6.2
+302	Incanter	Air_Ghost_302	A	4	4500	4.8
+303	Burial	Air_Fat_303	A	3	5100	4.3
+304	Nightmare	Air_Demon_304	A	3	4300	3.8
+305	Bloody	Air_Octopus_305	A	2	4600	3.8
+306	Lord	Air_Hippo_306	S	2	5100	3.6
+307	Siren Golem	Air_Golem_307	S	2	5000	3.6
+308	Poison	Air_Alien_308	S	2	5000	3.2
+309	Queen	Air_Ant_309	SS	1	5000	2.8
